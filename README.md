@@ -1,7 +1,7 @@
 # kafka-learn
 This repo contains material for learning kafka
 
-#Producer - Consumer - Broker in Kafka
+# Producer - Consumer - Broker in Kafka
 1. Kafka Broker:
 A Kafka broker is a server that stores and manages the data (messages) within a Kafka cluster. 
 It receives messages from producers, stores them in topics (which are essentially named channels), and makes them available to consumers. 
